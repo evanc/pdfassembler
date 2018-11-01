@@ -27,19 +27,19 @@
     "prepare": "npm run build"
   },
   "dependencies": {
-    "pako": "^1.0.6",
-    "pdfjs-dist": "^2.0.489",
-    "promise-queue": "^2.2.5"
+    "pako": "1.0.6",
+    "pdfjs-dist": "2.0.489",
+    "promise-queue": "2.2.5"
   },
   "devDependencies": {
-    "@types/es6-promise": "^3.3.0",
-    "@types/node": "^10.5.6",
-    "@types/pako": "^1.0.0",
+    "@types/es6-promise": "3.3.0",
+    "@types/node": "9.6.4",
+    "@types/pako": "1.0.0",
     "@types/pdfjs-dist": "^0.1.2",
-    "es6-promise": "^4.2.4",
-    "rimraf": "^2.6.2",
-    "tslint": "^5.11.0",
-    "typescript": "^2.9.2",
-    "uglify-js": "^3.4.6"
+    "es6-promise": "4.2.4",
+    "rimraf": "2.6.2",
+    "tslint": "5.9.1",
+    "typescript": "2.8.1",
+    "uglify-js": "3.3.21"
   }
 }
